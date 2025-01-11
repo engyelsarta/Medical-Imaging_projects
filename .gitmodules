@@ -4,3 +4,6 @@
 [submodule "Research_Proposal"]
 	path = Research_Proposal
 	url = https://github.com/engyelsarta/Research_Proposal.git
+[submodule "Dicom-Viewer"]
+	path = Dicom-Viewer
+	url = https://github.com/engyelsarta/Dicom-Viewer.git
