@@ -10,3 +10,6 @@
 [submodule "Organ_Puzzle"]
 	path = Organ_Puzzle
 	url = https://github.com/engyelsarta/Organ_Puzzle.git
+[submodule "Organ-Identifier"]
+	path = Organ-Identifier
+	url = https://github.com/engyelsarta/Organ-Identifier.git
