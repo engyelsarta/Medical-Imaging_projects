@@ -7,3 +7,6 @@
 [submodule "Dicom-Viewer"]
 	path = Dicom-Viewer
 	url = https://github.com/engyelsarta/Dicom-Viewer.git
+[submodule "Organ_Puzzle"]
+	path = Organ_Puzzle
+	url = https://github.com/engyelsarta/Organ_Puzzle.git
