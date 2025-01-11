@@ -1,3 +1,9 @@
 [submodule "Image-Viewer"]
 	path = Image-Viewer
 	url = https://github.com/engyelsarta/Image-Viewer.git
+[submodule "Researsh_Proposal"]
+	path = Researsh_Proposal
+	url = https://github.com/engyelsarta/Researsh_Proposal.git
+[submodule "Research_Proposal"]
+	path = Research_Proposal
+	url = https://github.com/engyelsarta/Research_Proposal.git
