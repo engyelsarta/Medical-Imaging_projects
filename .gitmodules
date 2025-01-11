@@ -13,3 +13,6 @@
 [submodule "Organ-Identifier"]
 	path = Organ-Identifier
 	url = https://github.com/engyelsarta/Organ-Identifier.git
+[submodule "Multi_Planar_Viewer"]
+	path = Multi_Planar_Viewer
+	url = https://github.com/engyelsarta/Multi_Planar_Viewer.git
