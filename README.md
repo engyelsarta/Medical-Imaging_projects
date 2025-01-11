@@ -1,5 +1,3 @@
-# Medical-imaging
-
 # Medical Imaging Projects
 
 These are the projects throughout sophomore year in systems and biomedical engineering. This collection of projects highlights various applications and tools in the field of medical imaging and beyond. From advanced DICOM viewers to interactive anatomy puzzles, these projects demonstrate the integration of computer vision, machine learning, and game development in solving real-world challenges. Whether you're a student, researcher, or enthusiast, these repositories offer valuable insights and tools to explore.  
