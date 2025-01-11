@@ -16,3 +16,6 @@
 [submodule "Multi_Planar_Viewer"]
 	path = Multi_Planar_Viewer
 	url = https://github.com/engyelsarta/Multi_Planar_Viewer.git
+[submodule "Yolov5_Player_tracking"]
+	path = Yolov5_Player_tracking
+	url = https://github.com/engyelsarta/Yolov5_Player_tracking.git
